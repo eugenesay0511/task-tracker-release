@@ -2,10 +2,10 @@
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  "",
-                                             "url":  "https://github.com/eugenesay0511/task-tracker-release/raw/main/task-tracker_1.0.6_x64-setup.exe"
+                                             "url":  "https://github.com/eugenesay0511/task-tracker-release/raw/main/task-tracker_1.0.7_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-01-20T15:51:25Z",
-    "version":  "v1.0.6",
-    "notes":  "Release v1.0.6"
+    "pub_date":  "2026-01-20T15:56:12Z",
+    "version":  "v1.0.7",
+    "notes":  "Release v1.0.7"
 }
