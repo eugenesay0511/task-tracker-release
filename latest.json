@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZmN1aUVRRDFGR01CTFJ0NTBtazk3WlA2RGkyeFF5aTZqKzV2K1NCWm9hbDdndkJoK21LSVdVOTNML0JJUlZJeW1oMzRKODdGbWhWSE9kNFZjSFJ3bmlOZ1NhTFRkMlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTcyODU5CWZpbGU6VGFzayBUcmFja2VyXzEuMi4zX3g2NC1zZXR1cC5leGUKWk81dW5ickhuQU1NU0s5Vm5hSlB4MDNCcXczdG40UlBIeDhBMUllUWFRTVB6dURXR0JjS2xxcHRkUm9oR3hrdVd2bzlHMmNTVzJPUmk1R3ZSci81Qnc9PQo=",
-                                             "url":  "https://github.com/eugenesay0511/task-tracker-release/raw/main/Task%20Tracker_1.2.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZmN1aUVRRDFGR0ZkbkxxY2xhdGV6YjdxZ29HYmk2R09EcWxiMTJCS3Q2WE5Cc0VHckt5cmxUNjZuWGRTWC9pbjRPU0hHNnNyYVFZNWs4YUc1S3djdjRmWTJyUFYyQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTc2NDcwCWZpbGU6VGFzayBUcmFja2VyXzEuMi40X3g2NC1zZXR1cC5leGUKS2dENDFDYUZ1K002d3JCMnR2dGlJQWRoQ2c1TlNhOGtEVXQrMWplWTJRR1FBd3RiczdUY2M2MTU0YnlSdjhNazBkTkUxK0h6TmQvS3VmREpOdTF0Q1E9PQo=",
+                                             "url":  "https://github.com/eugenesay0511/task-tracker-release/raw/main/Task%20Tracker_1.2.4_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-01-21T05:21:14Z",
-    "version":  "1.2.3",
-    "notes":  "test update"
+    "pub_date":  "2026-01-21T06:21:17Z",
+    "version":  "1.2.4",
+    "notes":  "new token"
 }
