@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZmN1aUVRRDFGR0hzNFlDM1JnM2w5Q2tsQUNJRXgrWHROTHd5S0hEQTdZOHJPOXU4Vjl4ZUowMkFSNkl6NXNEakk1SWpCT3Q4Y0R2d1VtUFpJakJIa1hkUEdxeDhKU2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTY5NTEyCWZpbGU6VGFzayBUcmFja2VyXzEuMS42X3g2NC1zZXR1cC5leGUKTEVKZWMra1pJWjY2WC8zcnRDenVPY1dLSndaNjBYcHdKajN1TFZVMzVoQmZUYkpmUFhweWtSY2ZTRGhDUUVSOVBOREVTSysxbFJmV1Btb0prQjZjQ2c9PQo=",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZmN1aUVRRDFGR0ExYjU5N3dXRDc1TlFTQkRFYWl5K0toZllIekVQZGtXaTBLZkNORTB6cld3Vzl5akQ2dExpeGdVTXNtcHFJMVdxdWdkWjNWdVNyUDFVak56cFc4UEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTcwMjkyCWZpbGU6VGFzayBUcmFja2VyXzEuMS42X3g2NC1zZXR1cC5leGUKbHdpamdNU1FQUzJ2WGR1VzlWQVVaTVdmU0IwejlGT2N6ZEdhMDFUQkNyb1F5YmI0UERkUFlwc1ZsSjdCL2xJcDdUZkM1a1Fwb3d1aE1RbklIcWlxQmc9PQo=",
                                              "url":  "https://github.com/eugenesay0511/task-tracker-release/raw/main/Task%20Tracker_1.1.6_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-01-21T04:25:22Z",
+    "pub_date":  "2026-01-21T04:38:47Z",
     "version":  "1.1.6",
     "notes":  "Update for version 1.1.6"
 }
