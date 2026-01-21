@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZmN1aUVRRDFGR0ptaXRZSE9CbHlLNXVHc2VMcGNSYTl4TTh2MTlEL3ErRGlLSnRjYnZaM0R4bWNKWEQ2a2Z3ZmJXVis4S1hNOHdXQkxiU0p0NlFIYURaeEZCUys0cEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTY4NzAwCWZpbGU6VGFzayBUcmFja2VyXzEuMS42X3g2NC1zZXR1cC5leGUKeU50RFQzWldjeVZUWFIvT1FyanFxSmpBNHFyVVJwbVp4aC9BQzZGNnRFcGUrK1lEYXlDZVlqWXBKbjN2T3IzcjJaUXZmVW1qOUx1b2xFZnJaUW5GREE9PQo=",
+                                             "url":  "https://github.com/eugenesay0511/task-tracker-release/raw/main/Task%20Tracker_1.1.6_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-01-21T04:11:52Z",
+    "version":  "1.1.6",
+    "notes":  "Update for version 1.1.6"
+}
